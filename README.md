@@ -7,9 +7,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Face detect app
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on new project with React
-- 💬 Ask me anything
+- 👯 I’m looking to collaborate on new project with React 
 - 📫 How to reach me: amineelabbadi@gmail.com
 - 😄 Pronouns: Excalibur
 - ⚡ Fun fact: I saved man's life, long story but i can tell you over coffee
---> If you need help don't be shy :)
+--> 💬 Ask me anything
